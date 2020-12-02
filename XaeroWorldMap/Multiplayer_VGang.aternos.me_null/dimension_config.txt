@@ -1,0 +1,3 @@
+confirmedMultiworld:mw$default
+MWName:mw15,1,26:Map 1
+MWName:mw$default:Default
