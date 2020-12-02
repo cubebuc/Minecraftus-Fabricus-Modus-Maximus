@@ -1,7 +1,0 @@
-#
-#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
-#
-waypoint:Desert:D:1195:74:3978:14:false:0:gui.xaero_default:false:0:false
-waypoint:Home:H:1152:81:1836:6:false:0:gui.xaero_default:false:0:false
-waypoint:Creeper Farm:CF:3233:63:-676:15:false:0:gui.xaero_default:false:0:false
-waypoint:Warm Ocean:WO:2254:63:-775:11:false:0:gui.xaero_default:false:0:false
