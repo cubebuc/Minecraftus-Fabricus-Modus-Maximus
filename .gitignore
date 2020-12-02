@@ -1,0 +1,6 @@
+*
+!/config
+!/mods
+!/README.md
+!/.gitattributes
+!/.gitignore
