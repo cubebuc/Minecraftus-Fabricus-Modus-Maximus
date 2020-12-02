@@ -8,7 +8,7 @@ patchouli_books/
 resourcepacks/
 saves/
 screenshots/
-schematics/
+schematics/*
 XaeroWaypoints/
 XaeroWaypoints_BACKUP062020/
 XaeroWorldMap/
